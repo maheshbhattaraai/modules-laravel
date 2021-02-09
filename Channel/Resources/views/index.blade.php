@@ -20,7 +20,7 @@
         @endif
 
         <x-slot name="body">
-            <livewire:backend.channels-table />
+            <livewire::backend.channels-table />
         </x-slot>
     </x-backend.card>
 @endsection
